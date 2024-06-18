@@ -4,9 +4,8 @@ This project is made to predict rainfall prediction by using linear regression m
 
 Screenshots to show the visualization
 ### Multiple Graphs
-![Multiple Graphs](file:///C:/Users/AKHILESH/Downloads/RainWater%20Prediction/MultipleGraph.png)
-*Multiple graphs showing various metrics related to rainfall prediction.*
+![Multiple Graphs](./images/MultipleGraph.png)
 
 ### Precipitation Level
-![Precipitation Level](file:///C:/Users/AKHILESH/Downloads/RainWater%20Prediction/PrecipitationLevel.png)
-*Graph showing the predicted precipitation levels over time.*
+![Precipitation Level](./images/PrecipitationLevel.png)
+
